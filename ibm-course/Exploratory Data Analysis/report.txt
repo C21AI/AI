@@ -1,0 +1,54 @@
+Done: 
+Assignment topic: Done
+Setup: Done
+How to submit: Done
+Find own data: Done
+Discussion board: Done 
+
+Not done:
+Encode categorical variables: Not done
+Encode NAN values: Not done
+Make 3 hypothesis: Not done 
+Conduct hypothesis test for 1: Not done 
+Brief description: Do that in top, do it today
+Plan for exploration: Do that now
+Describe actions taken: Not done
+Key findings: Not done 
+Net steps: 
+
+
+
+
+
+
+
+Submitting:
+Notes: Report needs to be pdf file with main findings 
+
+Feedback when done:
+- Indicate what they did well
+- Provide actionable advice, very specfic 
+
+# WORKING
+# Cleaning 
+RangeIndex: 41 entries, 0 to 40
+Data columns (total 16 columns):
+Flight Number        41 non-null object *
+Launch Date          41 non-null object *
+Launch Time          41 non-null object *
+Launch Site          41 non-null object *
+Vehicle Type         41 non-null object *
+Payload Name         41 non-null object *
+Payload Type         38 non-null object * DONE(TRANSFORM TO DEMO)
+Payload Mass (kg)    33 non-null float64
+Payload Orbit        36 non-null object
+Customer Name        39 non-null object REMOVE NAN customers 
+Customer Type        39 non-null object
+Customer Country     39 non-null object
+Mission Outcome      41 non-null object
+Failure Reason       8 non-null object
+Landing Type         28 non-null object
+Landing Outcome      21 non-null object
+
+Maybe divide into launch and failure 
+
