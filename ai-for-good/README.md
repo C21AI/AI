@@ -10,4 +10,4 @@ It is shortly demonstrated in the MP file.
 
 Final design is displayed in the image files. 
 
-![Front page](https://github.com/C21AI/AI/ai-for-good/front_page.png?raw=true)
+![Front page](https://github.com/C21AI/AI/blob/main/ai-for-good/front_page.png)
