@@ -12,10 +12,13 @@ Final design is displayed in the image files.
 
 
 Front page:
+
 ![Front page](https://github.com/C21AI/AI/blob/main/ai-for-good/front_page.png)
 
 Info page:
+
 ![Info page](https://github.com/C21AI/AI/blob/main/ai-for-good/info_before_analysis.png)
 
 After analysis:
+
 ![After](https://github.com/C21AI/AI/blob/main/ai-for-good/image_after_analysis_without_prediction.png)
